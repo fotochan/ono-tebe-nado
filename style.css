@@ -29,7 +29,7 @@
     list-style-type: none;
 }
 
-.header__logo-image{
+.header__logo-image {
     width: 148px;
     height: 105px;
 }
@@ -40,7 +40,7 @@
     height: 97px;
 }
 
-.cover{
+.cover {
     position: relative;
     background-size: cover;
     background-position: center;
@@ -164,7 +164,7 @@ align-self: flex-start;
     text-decoration: none;
 }
 
-.card_type_film{
+.card_type_film {
     position: relative;
     background-image: url("../images/card-lot-01.jpg");
     background-size: cover;
@@ -378,7 +378,7 @@ align-self: flex-start;
     list-style: none;
 }
 
-.footer_social-icon{
+.footer_social-icon {
     width: 48px;
     height: 48px;
 }
